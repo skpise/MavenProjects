@@ -1,0 +1,7 @@
+com\symplorejava\wareHouseProject\repository\ProductDetailsRepositoryImpl.class
+com\symplorejava\wareHouseProject\service\ProductServiceImpl.class
+com\symplorejava\wareHouseProject\controller\ProductServiceController.class
+com\symplorejava\wareHouseProject\entity\ProductDetails.class
+com\symplorejava\wareHouseProject\service\ProductDetailsService.class
+com\symplorejava\wareHouseProject\repository\ProductDetailsRepository.class
+com\symplorejava\wareHouseProject\App.class
